@@ -1,0 +1,26 @@
+* {
+  background-color: blanchedalmond;
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(250, 118, 70);
+  margin: 15px 50px;
+}
+
+h4 {
+  color:brown;
+}
+
+h1 {
+  color:rgb(255, 94, 0);
+}
+
+.list {
+  font-size: 24px;
+}
+
+#MainHeader {
+  font-size: 70px;
+}
+
+a {
+  color: rgba(0, 0, 0, 0.664);
+}
